@@ -1,0 +1,16 @@
+tensorflow
+torch
+transformers
+keras
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+missingno
+wordcloud
+nltk
+scrapy
+selenium
+beautifulsoup4
+streamlit
